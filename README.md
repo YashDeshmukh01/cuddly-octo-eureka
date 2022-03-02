@@ -1,3 +1,3 @@
 # cuddly-octo-eureka
-C++ Codes
-All my C++ practise codes
+C++ Codes.
+All my C++ practise codes.
